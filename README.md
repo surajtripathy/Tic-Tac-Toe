@@ -1,1 +1,1 @@
-Tic-Tac-Toe
+NxN tic tac toe using python with executable. 
